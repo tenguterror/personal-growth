@@ -22,5 +22,5 @@ def fizzBuzz(nums):  # This is our main function
             print(i)
 
 
-# This will call the function fizzBuzz and add the iput nums to it.
+# This will call the function fizzBuzz and add the input nums to it.
 fizzBuzz(nums)
